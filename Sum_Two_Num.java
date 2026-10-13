@@ -1,6 +1,6 @@
 package Leetcode;
 import java.util.Scanner;
-public class code{
+public class Sum_Two_Num{
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         
